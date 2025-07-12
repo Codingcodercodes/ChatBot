@@ -47,7 +47,7 @@ Toggle between light/dark mode and voice on/off — it’s cute, simple, and you
 ---
 
 ## 📜 License
-- MIT License — you’re free to use, change, remix it however you like.
+- MIT License: you’re free to use, change, remix it however you like.
 
 ---
 
