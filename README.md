@@ -23,36 +23,34 @@ Toggle between light/dark mode and voice on/off — it’s cute, simple, and you
 
 ---
 
-🧠 Customization
-Want to change responses? Edit data/responses.json
+## 🧠 Customization
+- Want to change responses? Edit data/responses.json
+- Change bot's name or greeting? Edit index.html and run.py
+- Modify UI? Go wild in static/styles.css
+- Tweak voice tone/pitch? Edit the JS speak() function in index.html
 
-Change bot's name or greeting? Edit index.html and run.py
+---
 
-Modify UI? Go wild in static/styles.css
+## 🛠 Tech Stack
+- Python
+- Flask
+- HTML/CSS/JS
+- pyttsx3 (optional for desktop voice)
+- Web Speech API (browser-based voice)
 
-Tweak voice tone/pitch? Edit the JS speak() function in index.html
+---
 
-🛠 Tech Stack
-Python
+## 📦 Future Ideas
+- Connect to a real LLM (like OpenAI or HuggingFace)
+- Add memory to continue previous chats
+- Let Lil Dino learn from new conversations
+---
 
-Flask
+## 📜 License
+- MIT License — you’re free to use, change, remix it however you like.
 
-HTML/CSS/JS
+---
 
-pyttsx3 (optional for desktop voice)
-
-Web Speech API (browser-based voice)
-
-📦 Future Ideas
-Connect to a real LLM (like OpenAI or HuggingFace)
-
-Add memory to continue previous chats
-
-Let Lil Dino learn from new conversations
-
-📜 License
-MIT License — you’re free to use, change, remix it however you like.
-
-👩‍💻 Author
-Made with ❤️ by [Your Name]
-Let Lil Dino keep evolving!
+## 👩‍💻 Author
+- Made with ❤️ by [Your Name]
+- Let Lil Dino keep evolving!
