@@ -52,5 +52,5 @@ Toggle between light/dark mode and voice on/off — it’s cute, simple, and you
 ---
 
 ## 👩‍💻 Author
-- Made with ❤️ by [Charmi Reddy]
+- Made with 💜 by Charmi Reddy
 - Let Lil Dino keep evolving!
